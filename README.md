@@ -13,7 +13,7 @@ Implemetations:
 **SimpleDataProvider** - ActiveContainer based on any data container (ListDataContainer by default)  
 **ArrayDataContainer**, **ListDataContainer**, **MapDataContainer** - different container implementations
 
-This library needs to be used in couple with androiddataprovider, set of classes to translate DataProvider events to appropriate adapters calls (notifyItemInserted, notifyDataSetChanged, etc.)
+*This library needs to be used in couple with androiddataprovider, set of classes to translate DataProvider events to appropriate adapters calls (notifyItemInserted, notifyDataSetChanged, etc.)*
 
 ### Example of usage:
 **MvpModelView.kt**
